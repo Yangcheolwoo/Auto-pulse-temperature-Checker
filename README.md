@@ -1,3 +1,17 @@
+필요한 부품:
+TMP36 온도센서 3개. http://itempage3.auction.co.kr/DetailView.aspxitemno=A868357606
+nodeMcu - 2개   http://m.devicemart.co.kr/1385151 
+FQ-050 부저센서 - 3개  http://m.devicemart.co.kr/1361134
+pulse sensor - 2개  http://m.devicemart.co.kr/1174964
+
+학교에 있으면 안사도 되는물품:
+점프선 암 수   http://www.devicemart.co.kr/1321195 품절 20cm  31일 입고 예정
+               http://www.devicemart.co.kr/1328408 10cm
+       수 수  http://www.devicemart.co.kr/1321196 20cm
+       수 수 http://www.devicemart.co.kr/1328409 품절 23일 입고 예정 10cm
+저항   http://www.devicemart.co.kr/886 
+브레드보드 3개   http://www.devicemart.co.kr/1328148
+
 # Auto-puslse-tamperature-Checker
 ![image](https://user-images.githubusercontent.com/32381811/46915443-deab5c00-cfe6-11e8-873d-3728c5e3ee33.png)
 ![image](https://user-images.githubusercontent.com/32381811/46915445-e10db600-cfe6-11e8-989a-514f4dfebaae.png)
