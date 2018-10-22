@@ -12,7 +12,6 @@
 학교에 있으면 안사도 되는물품:
 
 1.점프선 암 수   http://www.devicemart.co.kr/1321195 품절 20cm  31일 입고 예정
-
                 http://www.devicemart.co.kr/1328408 10cm
 
 3.점프선 수 수  http://www.devicemart.co.kr/1321196 20cm
