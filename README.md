@@ -2,7 +2,7 @@
 
 1.TMP36 온도센서 3개. http://itempage3.auction.co.kr/DetailView.aspxitemno=A868357606
 
-2.nodeMcu - 2개   http://m.devicemart.co.kr/1385151 
+2.nodeMcu - 4개   http://m.devicemart.co.kr/1385151 
 
 3.FQ-050 부저센서 - 3개  http://m.devicemart.co.kr/1361134
 
