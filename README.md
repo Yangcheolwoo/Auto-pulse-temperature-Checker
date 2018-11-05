@@ -40,11 +40,11 @@ o실습절차
 
 양철우 (+박한샘) 1. 프로젝명 : Auto-pulse-temperature-Checker 
 
-2. 금주 실습할 내용 
+2.금주 실습할 내용 
 
-o 실습명 : NodeMcu(온습도센서)와 라즈베리파이MQTT통신
+o실습명 : NodeMcu(온습도센서)와 라즈베리파이MQTT통신
 
-o 실습절차
+o실습절차
 
 가.라즈베리파이에 Mosquitto 설치
 
@@ -57,11 +57,11 @@ o 실습절차
 마.핸드폰 앱으로 NodeMCU에서 설정한 토픽이름을 써서 온습도값 받기
 
 
-3. 결과
+3.결과
 
 -라즈베리파이 MQTT설치 후 NodeMCU에서 보내주는 온습도 값을 핸드폰 MQTT앱으로 값 받기 성공
 
-4. 소감 및 질문 
+4.소감 및 질문 
 
 라즈베리파이 MQTT설치후 NodeMCU에 공유기 WiFi 이름과 비밀번호, 라즈베리파이 IP주소 업로딩을 하고 통신을 시작할려고 할때 NodeMCU 씨리얼 모니터에
 
@@ -69,7 +69,7 @@ disconnect라는 문구가 계속 떠 있었다. 이것저것 다시 코딩해�
 
 모니터에 나타나게 되었다. WiFi 주파수 대역도 영향을 끼친다는 것을 알게 되었다. 이제 서버 구축 후 서버쪽에서 구독하는 방법에 대해 생각해 봐야겠다.
 
-o 관련 링크
+o관련 링크
 
 -Mosquitto 설치 : https://blog.naver.com/roboholic84/221227871374
 
@@ -80,13 +80,13 @@ o 관련 링크
 
 2018 10 29 10 주차 ( 실습 예상 보고서)
 
-1. 프로젝명 : Auto-pulse-temperature-Checker 
+1.프로젝명 : Auto-pulse-temperature-Checker 
 
-2. 금주 실습할 내용 (+박한샘)
+2.금주 실습할 내용 (+박한샘)
 
-o 실습명 : NodeMcu(온습도센서)와 라즈베리파이MQTT통신
+o실습명 : NodeMcu(온습도센서)와 라즈베리파이MQTT통신
 
-o 실습절차
+o실습절차
 
 가.라즈베리파이에 Mosquitto 설치
 
@@ -98,7 +98,7 @@ o 실습절차
 
 마.핸드폰 앱으로 NodeMCU에서 설정한 토픽이름을 써서 온습도값 받기
 
-o 예상 결과
+o예상 결과
 
 -라즈베리파이의 Mosquitto 설치문제가 생길 수 있다. - SD카드초기화 후 다시 설치하여 문제 해결가능
 
@@ -106,7 +106,7 @@ o 예상 결과
 
 -NodeMCU의 고장의 원인으로 통신문제가 발생할 수 있다. - 다른 NodeMCU로 교체
 
-o 관련 링크
+o관련 링크
 
 -Mosquitto 설치 : https://blog.naver.com/roboholic84/221227871374
 
