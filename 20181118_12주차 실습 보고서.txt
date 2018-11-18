@@ -1,0 +1,45 @@
+2018 11 18 12주차 ( 실습  보고서 )
+
+(+박한샘) 1. 프로젝명 : Auto-pulse-temperature-Checker
+
+2. 금주 실습할 내용
+
+o 실습명 : 라즈베리파이에 mysql 설치, 라즈베리파이 원격구축, 플라스크 서버 초기 웹페이지 제작
+
+o 실습절차
+
+가.라즈베리파이에 mysql 설치
+
+나.라즈베리파이 원격 구축
+
+다.플라스크 서버 초기 웹페이지 제작
+
+3. 결과
+
+-라즈베리파이에 mysql 문제없이 설치완료
+
+-라즈베리파이 원격 구축 완료 / 다른 ip 컴퓨터에서 접속하기위해선 3389포트로 포트포워딩해야함
+
+-플라스크 서버 초기 웹페이지 제작 완료
+
+4. 소감 및 질문
+
+-라즈베리파이를 원격으로 사용하니 전에 사용한 것 보다 훨씬 편하게 이용할 수 있었다. mysql도 문제 없이 설치 되었고 mysql도 원격으로 사용 가능하기 때문에 쉽게 DB를 구축할 수 있을 것 같다. 초기 웹페이지만들때에는 HTML를 사용해야 하기 때문에 어려움이 많았었다. 조금씩 HTML 사용법에 익숙해지도록 공부해야할 필요성이 생겼다.
+
+5. 관련 링크
+
+-MySQL DB 설치 : https://m.blog.naver.com/PostView.nhn?blogId=wlsdml1103&logNo=221159758141&proxyReferer=http%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D1%26cad%3Drja%26uact%3D8%26ved%3D2ahUKEwjL8KSEjc7eAhXGdN4KHRkoAoYQFjAAegQICRAB%26url%3Dhttp%253A%252F%252Fm.blog.naver.com%252Fwlsdml1103%252F221159758141%26usg%3DAOvVaw19RfRjn_VeL0iUTqC3AXhB
+
+
+-라즈베리파이 원격구축 : https://m.blog.naver.com/PostView.nhn?blogId=tipsware&logNo=220991540922&proxyReferer=http%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D2%26cad%3Drja%26uact%3D8%26ved%3D2ahUKEwjLpJ_OkM7eAhXDdd4KHTLlCm4QFjABegQIBxAB%26url%3Dhttp%253A%252F%252Fm.blog.naver.com%252Ftipsware%252F220991540922%26usg%3DAOvVaw005P3lzgvcJRX9CpVe5fkq
+
+
+-플라스크 서버 웹페이지 제작 : https://code.tutsplus.com/ko/tutorials/creating-a-web-app-from-scratch-using-python-flask-and-mysql-part-2--cms-22999?fbclid=IwAR1d1p9oqlYHbkDYjZnspGGbCvgOK2DdOHc5Knz_2jcJufa6Sqfri6EyzOk
+
+
+
+6.관련 사진
+-첨부 파일 확인
+
+
+
