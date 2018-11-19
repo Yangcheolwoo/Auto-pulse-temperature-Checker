@@ -1,5 +1,5 @@
 
-# Auto-puslse-tamperature-Checker
+# Auto-pulse-temperature-Checker
 ![image](https://user-images.githubusercontent.com/32381811/46915443-deab5c00-cfe6-11e8-873d-3728c5e3ee33.png)
 ![image](https://user-images.githubusercontent.com/32381811/46915445-e10db600-cfe6-11e8-989a-514f4dfebaae.png)
 ![image](https://user-images.githubusercontent.com/32381811/46915448-e2d77980-cfe6-11e8-8c17-883b059cd6e6.png)
