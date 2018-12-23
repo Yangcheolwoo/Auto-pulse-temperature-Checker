@@ -15,3 +15,4 @@
 ![image](https://user-images.githubusercontent.com/32381811/50382906-aada6a00-06ec-11e9-9eed-e4999e44726e.png)
 
 <H5> PPT파일은 따로 올려놨습니다.
+<H5> 프로젝트는 방학중에도 진행하겠습니다.
